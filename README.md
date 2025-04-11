@@ -1,4 +1,4 @@
-# Hi there, I'm Ritika Dhapte!
+# Hi, I'm Ritika Dhapte!
 
 **Aspiring Software Developer | CSE Undergrad @ JNTUH | Enthusiastic about Cloud, Web Development & Problem Solving**
 
